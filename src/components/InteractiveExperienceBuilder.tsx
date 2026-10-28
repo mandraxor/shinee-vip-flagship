@@ -48,21 +48,21 @@ const PACKAGES = [
     name: "15-Photo 4K Ultra-HD Master Package",
     type: "Digital Photography",
     icon: Camera,
-    baseValue: "$250 Tier Value",
+    baseValue: "$45 Tier Value",
   },
   {
     id: "pkg-video",
     name: "30-Photo Set + 60fps 4K Cinema Reel",
     type: "Photo & Video",
     icon: Video,
-    baseValue: "$450 Tier Value",
+    baseValue: "$75 Tier Value",
   },
   {
     id: "pkg-call",
     name: "Private 30-Min 1-on-1 Video Call Lounge",
     type: "Live Experience",
     icon: Crown,
-    baseValue: "$650 Tier Value",
+    baseValue: "$100 Tier Value",
   },
 ];
 
